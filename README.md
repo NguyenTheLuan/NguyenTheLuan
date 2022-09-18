@@ -2,11 +2,51 @@
     <a href="https://github.com/NguyenTheLuan">
         <img
             src="https://readme-typing-svg.herokuapp.com/?lines=My+fullname+is+Nguy%E1%BB%85n+Th%E1%BA%BF+Lu%C3%A2n;I%27m+a+Front-end+web+developer;In+the+future+fullstack+developer&center=true&width=500&height=50">
+<hr/>
     </a>
+    <h3>My infomation:</h3>
+    <p>- I'm <code>22 years old</code>
+    <br/>- I'm <code>a Frontend developer</code>
+    <br/> - Now, I'm <code>a R&D Engineer in SAMSUNG SEHC VIETNAM</code></p>
+    <img src="./images/BachDang.jpg"/>
+<hr/>
+    <img src="./images/z3731957451108_76a633229a6a07dbbca949220f7e9c6a.jpg"/>
+<code>My group R&D in SEHC Corporation</code>
 </p>
 <hr/>
-<br>
-<br>
+
+<h3>About me</h3>
+<table>
+  <tr>
+    <th>My skill</th>
+    <th>Experience</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Photoshop, Camtasia, Ableton and Wordpress</td>
+    <td>More 1 years</td>
+    <td>I've worked for <b>Real Estate company</b> when I'm a second student in college
+    </td>
+  </tr>
+  <tr>
+    <td>DOM</td>
+    <td>More 1 years</td>
+    <td>HTML, CSS/SCSS, JS (or webpack with TS), Figma
+    </td>
+  </tr>
+  <tr>
+    <td>ReactJS</td>
+    <td>Near 1 year</td>
+    <td>React, Hook, Redux, 3rd libraries</td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>Near 5 months</td>
+    <td>OOP, ST plugin, CoBa systems, IOT, mobile app</td>
+  </tr>
+</table>
+<hr/>
+
 <div align="center">
     <a align="center" href="https://github.com/NguyenTheLuan?tab=repositories" title="NguyenTheLuan">
         <img width="49%"
@@ -17,16 +57,8 @@
             src="https://github-readme-stats.vercel.app/api?username=NguyenTheLuan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
 </div>
-<br>
-<br>
-<span><b>⚡ Recent GitHub Activity</b></span>
-<br />
-<a href="https://github.com/NguyenTheLuan">
-    <img alt="NPX Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=NguyenTheLuan&custom_title=NPX%20Contribution%20Graph&theme=react-dark" /></a>
-<br />
-<br />
 
+<hr/>
 <div class="footer">
     <!-- connect -->
     <div >
@@ -52,7 +84,7 @@
                     alt="Facebook" /></a>
         </span>
     </div>
-    <br>
+<hr/>
     <!-- visit -->
     <div>
         <span><b>❤️ Visit github</b></span>
