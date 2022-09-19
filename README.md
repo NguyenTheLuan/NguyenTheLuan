@@ -19,30 +19,28 @@
 <table>
   <tr>
     <th>My skill</th>
-    <th>Experience</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td>Photoshop, Camtasia, Ableton and Wordpress</td>
-    <td>More 1 years</td>
-    <td>I've worked for <b>Real Estate company</b> when I'm a second student in college
-    </td>
+    <td>Designer</td>
+    <td>Photoshop, Camtasia, Ableton</td>
+  </tr>
+  <tr>
+    <td>Maintain & deploy code</td>
+    <td>Github, Vercel, Freenom</td>
   </tr>
   <tr>
     <td>DOM</td>
-    <td>More 1 years</td>
     <td>HTML, CSS/SCSS, JS (or webpack with TS), Figma
     </td>
   </tr>
   <tr>
     <td>ReactJS</td>
-    <td>Near 1 year</td>
     <td>React, Hook, Redux, 3rd libraries</td>
   </tr>
   <tr>
     <td>Angular</td>
-    <td>Near 5 months</td>
-    <td>OOP, ST plugin, CoBa systems, IOT, mobile app</td>
+    <td>OOP, ST plugin, CoBa systems, IoT, RxJS</td>
   </tr>
 </table>
 <hr/>
