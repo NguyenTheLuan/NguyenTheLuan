@@ -8,7 +8,7 @@
     <p>- I'm <code>22 years old</code>
     <br/>- I'm <code>a Frontend Developer</code>
     <br/> - Now, I'm <code>a R&D Engineer in SAMSUNG SEHC VIETNAM</code></p>
-    <img src="./images/BachDang.jpg"/>
+    <img height="400" src="./images/BachDang.jpg"/>
 <hr/>
    
 </p>
