@@ -6,14 +6,12 @@
     </a>
     <h3>My infomation:</h3>
     <p>- I'm <code>22 years old</code>
-    <br/>- I'm <code>a Frontend developer</code>
+    <br/>- I'm <code>a Frontend Developer</code>
     <br/> - Now, I'm <code>a R&D Engineer in SAMSUNG SEHC VIETNAM</code></p>
     <img src="./images/BachDang.jpg"/>
 <hr/>
-    <img src="./images/z3731957451108_76a633229a6a07dbbca949220f7e9c6a.jpg"/>
-<code>My group R&D in SEHC Corporation</code>
+   
 </p>
-<hr/>
 
 <h3>About me</h3>
 <table>
@@ -22,11 +20,19 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>Designer</td>
+    <td>Blog</td>
+    <td>Notion</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>Speaking, reading, listening and writing</td>
+  </tr>
+  <tr>
+    <td>Design</td>
     <td>Photoshop, Camtasia, Ableton</td>
   </tr>
   <tr>
-    <td>Maintain & deploy code</td>
+    <td>Versioning & deploy code</td>
     <td>Github, Vercel, Freenom</td>
   </tr>
   <tr>
