@@ -13,7 +13,7 @@
    
 </p>
 
-<h3>About me</h3>
+<h3>My skills:</h3>
 <table>
   <tr>
     <th>My skill</th>
@@ -47,6 +47,28 @@
   <tr>
     <td>Angular</td>
     <td>OOP, ST plugin, CoBa systems, IoT, RxJS</td>
+  </tr>
+</table>
+<hr/>
+
+<h3>Projects:</h3>
+<table>
+  <tr>
+    <th>Date time</th>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>05/2022 – 09/2022</td>
+    <td>Course selling website</td>
+    <td>
+    - ReactJS, Redux toolkit<br/>
+    - MUI & SCSS<br/>
+    - Formik&Yup<br/>
+    - Axios, Google Api
+</td>
+    <td><a href="https://github.com/courses-ecommerce/courses-eccommerce-client">Source code</a></td>
   </tr>
 </table>
 <hr/>
