@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>Angular</td>
-    <td>OOP, ST plugin, CoBa systems, IoT, RxJS</td>
+    <td>OOP, STs plugin, RxJS</td>
   </tr>
 </table>
 <hr/>
@@ -99,9 +99,9 @@
             <a href="mailto:nguyentheluan.11.12.2000@gmail.com"><img img
                     src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
                     alt="Gmail" /></a>
-            <a href="https://github.com/NguyenTheLuan"><img
-                    src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
-                    alt="GitHub" /></a>
+            <a href="https://www.linkedin.com/in/nguyentheluan/"><img
+                    src="https://img.shields.io/badge/linkedin-%231877F2.svg?style=plastic&logo=linkdin&logoColor=white"
+                    alt="Linkedin" /></a>
             <a href="#"><img
                     src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white"
                     alt="Youtube" /></a>
