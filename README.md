@@ -99,13 +99,13 @@
             <a href="mailto:nguyentheluan.11.12.2000@gmail.com"><img img
                     src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
                     alt="Gmail" /></a>
-            <a href="https://www.linkedin.com/in/nguyentheluan/"><img
+            <a href="https://www.linkedin.com/in/nguyentheluan/target="_blank"><img
                     src="https://img.shields.io/badge/linkedin-%231877F2.svg?style=plastic&logo=linkdin&logoColor=white"
                     alt="Linkedin" /></a>
             <a href="#"><img
                     src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white"
                     alt="Youtube" /></a>
-            <a href="https://www.facebook.com/call.me.is.luan"><img
+            <a href="https://www.facebook.com/nguyentheluan.it" target="_blank"><img
                     src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
                     alt="Facebook" /></a>
         </span>
