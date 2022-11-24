@@ -115,7 +115,7 @@
     <div>
         <span><b>❤️ Visit github</b></span>
         <br>
-        <img  src="https://profile-counter.glitch.me/%7Bphamnhutnpx%7D/count.svg"></img>
+        <img  src="https://profile-counter.glitch.me/%7Bnguyentheluan.11.12.2000%7D/count.svg"></img>
     </div>
 
 </div>
