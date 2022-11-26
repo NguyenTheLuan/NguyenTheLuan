@@ -57,7 +57,7 @@
     <th>Date time</th>
     <th>Project</th>
     <th>Description</th>
-    <th>Link</th>
+    <th>Link Demo</th>
   </tr>
   <tr>
     <td>05/2022 – 09/2022</td>
@@ -68,7 +68,7 @@
     - Formik&Yup<br/>
     - Axios, Google Api
 </td>
-    <td><a href="https://github.com/courses-ecommerce/courses-eccommerce-client">Source code</a></td>
+    <td><a href="https://www.course-ecommerce.tk">Try it here</a></td>
   </tr>
 </table>
 <hr/>
