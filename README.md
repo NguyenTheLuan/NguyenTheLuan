@@ -73,9 +73,9 @@
   </tr>
   <tr>
     <td></td>
-    <td>JavaScript Concept</td>
+    <td>My blog: JavaScript Concept</td>
     <td>
-    Learn more and note every about JavaScript
+    Learn more and note everything about JavaScript
     </td>
     <td><a href="https://s.id/1Hc3p">View here</a></td>
   </tr>
