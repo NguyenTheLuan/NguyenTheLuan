@@ -60,15 +60,24 @@
     <th>Link Demo</th>
   </tr>
   <tr>
-    <td>05/2022 – 09/2022</td>
+    <td>05/2022 – Currently</td>
     <td>Course selling website</td>
     <td>
     - ReactJS, Redux toolkit<br/>
     - MUI & SCSS<br/>
     - Formik&Yup<br/>
-    - Axios, Google Api
-</td>
-    <td><a href="https://www.course-ecommerce.tk">Try it here</a></td>
+    - Axios, Google Api<br/>
+    - Git actions CI/CD
+    </td>
+    <td><a href="https://www.course-ecommerce.tk">View here</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript Concept</td>
+    <td>
+    Learn more and note every about JavaScript
+    </td>
+    <td><a href="https://s.id/1Hc3p">View here</a></td>
   </tr>
 </table>
 <hr/>
